@@ -42,7 +42,7 @@ orderService:
     image:
         pullPolicy: Always
         repository: robjahn/keptn-orders-order-service
-        tag: 3
+        tag: 1
     replicaCount: 1
     resources:
         limits:
